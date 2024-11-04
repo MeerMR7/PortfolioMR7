@@ -1,3 +1,3 @@
-# Moiz-portfolio
+# Mir portfolio
 
-hosted web url :: https://moiz-portfolio-b4a0a.web.app
+hosted web url :: https://mr7-portfolio-b4a0a.web.app
